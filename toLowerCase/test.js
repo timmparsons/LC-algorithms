@@ -1,4 +1,4 @@
-const toLowerCase = require('./index.js')
+const toLowerCase = require('./index.js.js')
 
 test('toLowerCase should equal "hello', () => {
   expect(toLowerCase("Hello")).toEqual("hello");
