@@ -15,3 +15,5 @@ var numJewelsInStones = function(J, S) {
   }
   return count;
 };
+
+module.exports = numJewelsInStones;
