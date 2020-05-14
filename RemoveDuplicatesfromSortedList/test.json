@@ -1,0 +1,34 @@
+body: {
+value: [
+{
+subject: "Bookings discussion",
+start: "2020-05-07T16:00:00.0000000",
+end: "2020-05-07T18:00:00.0000000",
+body: "<html> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> <meta content="text/html; charset=us-ascii"> </head> <body> <div>Bookings Webhook vs Flow - Tim to explain findings/research</div> <div>We were able to reach MS Graph API but what can we do with that data?</div> <div>Discuss possibilities, and functionality of bookings platform various scenarios explored -Tamara</div> <div>I'm not sure if we will need the whole two hours but I'm blocking it off just in case&nbsp;</div> <div><br> <br> <br> <div style="width:100%; height:20px"><span style="white-space:nowrap; color:gray; opacity:.36">________________________________________________________________________________</span> </div> <div class="me-email-text" style="color:#252424; font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif"> <div style="margin-top:24px; margin-bottom:10px"><a class="me-email-headline" href="https://nam02.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_MTk4NTZlNTktZWJlMy00ZDYxLThmZjQtODc3OWZiYzUwNDVh%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ea88f9aa-c67a-4ef4-978b-1b26fbd6b94a%2522%252c%2522Oid%2522%253a%2522df7c2dd7-70cb-49db-85e2-83d8de87db2f%2522%257d&amp;data=02%7C01%7Ctparsons%40peoplesmortgage.com%7C3698e7a41cfc42a87a0508d7f208778a%7Cea88f9aac67a4ef4978b1b26fbd6b94a%7C0%7C0%7C637243990489692877&amp;sdata=IBVm4HgAn1hNx4xoUsVPiEC%2F33FWz9TUDO7%2FeYwLd8U%3D&amp;reserved=0" originalsrc="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTk4NTZlNTktZWJlMy00ZDYxLThmZjQtODc3OWZiYzUwNDVh%40thread.v2/0?context=%7b%22Tid%22%3a%22ea88f9aa-c67a-4ef4-978b-1b26fbd6b94a%22%2c%22Oid%22%3a%22df7c2dd7-70cb-49db-85e2-83d8de87db2f%22%7d" shash="HVmrSTD08JeEkw8EYudsbFK98EWI&#43;RtCeTbMzKkJsNfMehHttmSIJoJ/9tJsScCmQUfERSKqZJFg0YDDwhE8rszMtO6YdPVhjeoEbgKKANPEyOrc7qqEJDzp&#43;PkUTiTJ5yl4AhvA6ruARvCEAgHW08YnByTqB1GICfIV2Nvllc8=" target="_blank" rel="noreferrer noopener" style="font-size:18px; font-family:'Segoe UI Semibold','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; text-decoration:underline; color:#6264a7">Join Microsoft Teams Meeting</a> </div> <a class="me-email-link" target="_blank" href="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2FJoinTeamsMeeting&amp;data=02%7C01%7Ctparsons%40peoplesmortgage.com%7C3698e7a41cfc42a87a0508d7f208778a%7Cea88f9aac67a4ef4978b1b26fbd6b94a%7C0%7C0%7C637243990489702867&amp;sdata=EoT7BmROAaYDPL2QksBcE8km9O8u5FyIzRqaZoLAuPo%3D&amp;reserved=0" originalsrc="https://aka.ms/JoinTeamsMeeting" shash="Yr4pd3WSMskivaH1vh5tFsHh5ejaqKpkQ3ftUhvPkdv6sGVvUHoI/SDjbOUHLUmX78XUR4JoVFXx4XmexvoZ1hJCaTPkjqzOiOF&#43;fRCUoiT4ffNIkbWBfxxC0mTE/iIRzx&#43;Dkjp6p72peBnOCetk4&#43;B5P2&#43;dvsWMGpPhZ5GcW5E=" rel="noreferrer noopener" style="font-size:12px; text-decoration:none; color:#6264a7">Learn more about Teams</a> | <a class="me-email-link" target="_blank" href="https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fteams.microsoft.com%2FmeetingOptions%2F%3ForganizerId%3Ddf7c2dd7-70cb-49db-85e2-83d8de87db2f%26tenantId%3Dea88f9aa-c67a-4ef4-978b-1b26fbd6b94a%26threadId%3D19_meeting_MTk4NTZlNTktZWJlMy00ZDYxLThmZjQtODc3OWZiYzUwNDVh%40thread.v2%26messageId%3D0%26language%3Den-US&amp;data=02%7C01%7Ctparsons%40peoplesmortgage.com%7C3698e7a41cfc42a87a0508d7f208778a%7Cea88f9aac67a4ef4978b1b26fbd6b94a%7C0%7C0%7C637243990489712871&amp;sdata=vb8XGZyGeAIo8BWoxCZ8RX1r%2FCajUXMrF2rHSrA0YPw%3D&amp;reserved=0" originalsrc="https://teams.microsoft.com/meetingOptions/?organizerId=df7c2dd7-70cb-49db-85e2-83d8de87db2f&amp;tenantId=ea88f9aa-c67a-4ef4-978b-1b26fbd6b94a&amp;threadId=19_meeting_MTk4NTZlNTktZWJlMy00ZDYxLThmZjQtODc3OWZiYzUwNDVh@thread.v2&amp;messageId=0&amp;language=en-US" shash="o91gX2Sao/opHXoQpqohBFTL0QwOMY&#43;HzykLMBtME&#43;&#43;WVelw9HA3VvVWB5Y71jAzbFMiqjOIojjXflOzkSOroelxxVGFtKBzpMWR/VUtUOWXWIfguD615PAVsCxW2qxkYNVyOncpofIRbJy6MoeFkQGnVPVn4EiWq6PzFA1IKG4=" rel="noreferrer noopener" style="font-size:12px; text-decoration:none; color:#6264a7"> Meeting options</a> <div style="font-size:14px; margin-bottom:4px"> <div><img src="https://www.peoplesmortgage.com/wp-content/uploads/peoples-nav-logo.png"> </div> </div> <div style="font-size:12px"></div> </div> <div style="width:100%; height:20px"><span style="white-space:nowrap; color:gray; opacity:.36">________________________________________________________________________________</span> </div> </div> </body> </html> ",
+isHtml: true,
+responseType: "notResponded",
+responseTime: "0001-01-01T00:00:00+00:00",
+id: "AQMkADA0OWQ3NWU0LWM4YzMtNDY0MS1iYWQ2LWE0MWU2ZTdiZWZjNABGAAADHlXi-awn7ke0F2VowAR8IgcAUhUwNJ3BNkSdahm-gh0BbgAAAgENAAAAUhUwNJ3BNkSdahm-gh0BbgABViSs4wAAAA==",
+createdDateTime: "2020-05-06T21:57:29.0832287+00:00",
+lastModifiedDateTime: "2020-05-06T21:57:31.1601302+00:00",
+organizer: "tprice@peoplesmortgage.com",
+timeZone: "UTC",
+seriesMasterId: null,
+categories: [ ],
+webLink: "https://outlook.office365.com/owa/?itemid=AQMkADA0OWQ3NWU0LWM4YzMtNDY0MS1iYWQ2LWE0MWU2ZTdiZWZjNABGAAADHlXi%2Fawn7ke0F2VowAR8IgcAUhUwNJ3BNkSdahm%2Fgh0BbgAAAgENAAAAUhUwNJ3BNkSdahm%2Fgh0BbgABViSs4wAAAA%3D%3D&exvsurl=1&path=/calendar/item",
+requiredAttendees: "tprice@peoplesmortgage.com;vgaudia@peoplesmortgage.com;tparsons@peoplesmortgage.com;",
+optionalAttendees: "",
+resourceAttendees: "",
+location: "",
+importance: "normal",
+isAllDay: false,
+recurrence: "none",
+recurrenceEnd: null,
+numberOfOccurences: null,
+reminderMinutesBeforeStart: 15,
+isReminderOn: true,
+showAs: "tentative",
+responseRequested: true
+}
+]
+}
